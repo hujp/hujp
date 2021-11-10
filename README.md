@@ -8,7 +8,7 @@
 
 ### 在读
 
-| [<img src="imgs/mmexport1636510597944.jpg" alt="白帽子讲Web安全" width="120">](https://weread.qq.com/web/appreader/7c4327b05cfd497c4eaa52f?wtheme=white&wfrom=app&wvid=21903741&scene=bottomSheetShare)  | [<img src="" alt="" width="96">]()  | [<img src="" alt="" width="96">]()  |  [<img src="" alt="" width="96">]() |  [<img src="" alt="" width="96">]() | [<img src="" alt="" width="96">]()  |
+| [<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/273/851273/t6_851273.jpg" alt="白帽子讲Web安全" width="120">](https://weread.qq.com/web/appreader/7c4327b05cfd497c4eaa52f?wtheme=white&wfrom=app&wvid=21903741&scene=bottomSheetShare)  | [<img src="https://www.feistyduck.com/library/openssl-cookbook/assets/image-main-view.png" alt="openssl cookbook" width="120">](https://www.feistyduck.com/library/openssl-cookbook/)  | [<img src="" alt="" width="96">]()  |  [<img src="" alt="" width="96">]() |  [<img src="" alt="" width="96">]() | [<img src="" alt="" width="96">]()  |
 |---|---|---|---|---|---|
 
 ### 已读
