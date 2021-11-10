@@ -8,7 +8,7 @@
 
 ### 在读
 
-| [<img src="" alt="" width="24">]()  | [<img src="" alt="" width="">]()  | [<img src="" alt="" width="24">]()  |  [<img src="" alt="" width="24">]() |  [<img src="" alt="" width="24">]() | [<img src="" alt="" width="24">]()  |
+| [<img src="imgs/mmexport1636510597944.jpg" alt="白帽子讲Web安全" width="24">](https://weread.qq.com/web/appreader/7c4327b05cfd497c4eaa52f?wtheme=white&wfrom=app&wvid=21903741&scene=bottomSheetShare)  | [<img src="" alt="" width="">]()  | [<img src="" alt="" width="24">]()  |  [<img src="" alt="" width="24">]() |  [<img src="" alt="" width="24">]() | [<img src="" alt="" width="24">]()  |
 |---|---|---|---|---|---|
 
 ### 已读
