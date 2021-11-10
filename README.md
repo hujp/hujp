@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[简历]: https://hujp.github.io/devops-logs/
+[简历]: https://github.com/hujp/hujp/blob/master/cv.md
 [笔记]: https://hujp.github.io/devops-logs/
 [随笔]: https://hujp.github.io/life-essays/
