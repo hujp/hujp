@@ -8,14 +8,15 @@
 
 ### 在读
 
-| [<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/273/851273/t6_851273.jpg" alt="白帽子讲Web安全" width="120">](https://weread.qq.com/web/appreader/7c4327b05cfd497c4eaa52f?wtheme=white&wfrom=app&wvid=21903741&scene=bottomSheetShare)  | [<img src="https://www.feistyduck.com/library/openssl-cookbook/assets/image-main-view.png" alt="openssl cookbook" width="120">](https://www.feistyduck.com/library/openssl-cookbook/)  | [<img src="" alt="" width="96">]()  |  [<img src="" alt="" width="96">]() |  [<img src="" alt="" width="96">]() | [<img src="" alt="" width="96">]()  |
+| [<img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/739/25449739/t6_25449739.jpg" alt="Nginx实战：基于Lua语言的配置、开发与架构详解" width="120">](https://weread.qq.com/web/reader/a0a322707184550ba0adc41kc81322c012c81e728d9d180)  | [<img src="https://www.feistyduck.com/library/openssl-cookbook/assets/image-main-view.png" alt="openssl cookbook" width="120">](https://www.feistyduck.com/library/openssl-cookbook/)  | [<img src="" alt="" width="96">]()  |  [<img src="" alt="" width="96">]() |  [<img src="" alt="" width="96">]() | [<img src="" alt="" width="96">]()  |
 |---|---|---|---|---|---|
 
 ### 已读
 
 #### 编程类
 
-*
+* [白帽子讲Web安全](https://weread.qq.com/web/appreader/7c4327b05cfd497c4eaa52f?wtheme=white&wfrom=app&wvid=21903741&scene=bottomSheetShare)
+* 
 
 #### 系统类
 
