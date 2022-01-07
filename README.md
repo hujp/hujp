@@ -24,7 +24,7 @@
 #### 编程类
 
 * [白帽子讲Web安全](https://weread.qq.com/web/reader/7c4327b05cfd497c4eaa52fkc81322c012c81e728d9d180)
-* 
+* [agentzh 的 Nginx 教程（版本 2020.03.19）](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
 
 #### 系统类
 
